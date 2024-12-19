@@ -1,0 +1,71 @@
+@font-face{
+	font-family: 'Blasphemous';
+	src: url('blasphemous.ttf');
+	font-style: normal;
+	font-weight: normal;
+}
+
+h1,h3,#a{
+	font-family: 'Blasphemous';
+}
+
+#i:hover {
+	border: 5px solid red;
+	margin: 5px;
+   }
+#i {
+	margin: 10px;
+   }
+td:hover {
+	background: black;
+   }
+#a {
+	color: red;
+   }
+#a:hover {
+	color: white;
+   }
+#p {
+	background: white;
+	width: 482px;
+	height: 55px;
+	margin: 0px;
+   }
+#p:hover {
+	background: rgba(0,0,0,0);
+   }
+#c {
+	background: white;
+   }
+#c:hover {
+	background: rgba(0,0,0,0);
+   }
+.u {
+	width: 96.219px;
+	height: 109.781px;
+	margin-right: 25px;
+	 
+   }
+.v {
+	width: 96.219px;
+	height: 96.219px;
+	margin-right: 25px;
+  }
+.u:hover {
+	width: 241px;
+	height: 275px;
+   }
+.v:hover {
+	width: 225px;
+	height: 225px;
+  }
+#gemino {
+	position: fixed;
+	top: 0;
+	right: 0;
+}
+#musica {
+	height:0;
+	width:0;
+}
+
